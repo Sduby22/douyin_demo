@@ -1,5 +1,9 @@
 # douyin-demo
 
+79支队伍中，获得项目专项奖码如磐石奖，排名2
+
+项目文档：https://fsbupteducn.feishu.cn/docx/doxcnkT0dwmu6qQ5A0M04OLsbHh?from=from_copylink
+
 ## 青训营抖音项目
 
 ### 已完成功能
